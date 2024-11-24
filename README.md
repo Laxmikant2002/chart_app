@@ -19,6 +19,8 @@ Some Features:
 ```js
 PORT=...
 MONGO_DB_URI=...
+JWT_SECRET=
+NODE_ENV=
 ```
 
 ### Build the app
